@@ -1,0 +1,7 @@
+rencana minggu terakhir feb 23/ awal mar 23
+-revisi lapiran KP 
+-send it to mas rafi
+-greet pak bos online/offline
+-install reciever lora code di client
+-cari antenna extender
+-pasang raspi di lab ttt lantai 2
