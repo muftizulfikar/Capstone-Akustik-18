@@ -5,3 +5,4 @@ rencana minggu terakhir feb 23/ awal mar 23
 -install reciever lora code di client
 -cari antenna extender
 -pasang raspi di lab ttt lantai 2
+-nambah doang 
