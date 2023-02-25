@@ -1,0 +1,22 @@
+data transfer
+1. install pylora di raspi client
+2. install code buat rfm95 di raspi client
+3. coba lakukan transmisi data di lab ttt lt 2 dengan variasi jarak
+
+web dev
+1. buat interface / beranda web monitoring based on capstone 17
+  	a. buat html based nya
+    b. php nya
+    c. js.
+    d. css
+2. request data dari database
+    a. databsaenya mau pake apa?
+    b. buat code request nya
+3. halaman monitoring isolator
+    a. severity level
+    b. location
+    c. expected time (current time-delay)
+
+masi banyak kayaknya yang harus di list ntar di upadate lg
+
+tolong semua code ditaro di git ini 
